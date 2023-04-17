@@ -1,10 +1,6 @@
 # Snake game RL with pytorch
 this is my project to make the computer learn to play the snake game by using reinforcement learning
 
-[![Downloads Stats][npm-downloads]][npm-url]
-
-One to two paragraph statement about your product and what it does.
-
 ![](header.png)
 
 ## Installation
