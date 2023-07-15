@@ -8,7 +8,8 @@ this is my project to make the computer learn to play the snake game by using re
 Windows:
 
 ```
-just download or git clone the entire repo then run the file tagent.py.
+just download or git clone the entire repo then run the file agent.py with terminal.
+> python agent.py
 ```
 
 ## Usage example
