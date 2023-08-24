@@ -1,7 +1,7 @@
 # Snake game RL with pytorch
-this is my project to make the computer learn to play the snake game by using reinforcement learning
-
-![](header.png)
+I am currently working on a school project that involves teaching the computer how to play the game of snake using reinforcement learning. </br>
+Please keep in mind that this is just a school project, so you shouldn't expect any extraordinary results. 🥱 </br> 
+![](header.jpg)
 
 ## Installation
 
