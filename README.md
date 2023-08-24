@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/main/github-profile/jammin-snake.gif" width="30"> Snake game RL with pytorch 
 I am currently working on a school project that involves teaching the computer how to play the game of snake using reinforcement learning. </br>
 ```
-This "project" aims to assist femboys who struggle to play snake at a high level. </br>
+This "project" aims to assist femboys who struggle to play snake at a high level.
 After watching the computer play Snake, you might feel even more embarrassed about your own skills, skill issues fr. 
 ```
 Please keep in mind that this is just a school project, so you shouldn't expect any extraordinary results. <img src="https://media.tenor.com/AinmEhb2-FgAAAAC/skill-issue-emoji.gif" width="30">
