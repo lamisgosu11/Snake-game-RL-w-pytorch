@@ -23,9 +23,7 @@ Nothing in particular, this still needs to update the model and new training che
 
 ## Meta
 
-Your Name – lamisgosu11@gmail.com
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Lam Ngo – lamisgosu11@gmail.com
 
 [https://github.com/lamisgosu11/Snake-game-RL-w-pytorch](https://github.com/dbader/)
 
