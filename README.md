@@ -1,7 +1,14 @@
-# Snake game RL with pytorch
+# <img src="https://raw.githubusercontent.com/lamisgosu11/lamisgosu11/main/github-profile/jammin-snake.gif" width="30"> Snake game RL with pytorch 
 I am currently working on a school project that involves teaching the computer how to play the game of snake using reinforcement learning. </br>
-Please keep in mind that this is just a school project, so you shouldn't expect any extraordinary results. 🥱
-![](header.jpg)
+```
+This "project" aims to assist femboys who struggle to play snake at a high level. </br>
+After watching the computer play Snake, you might feel even more embarrassed about your own skills, skill issues fr. 
+```
+Please keep in mind that this is just a school project, so you shouldn't expect any extraordinary results. <img src="https://media.tenor.com/AinmEhb2-FgAAAAC/skill-issue-emoji.gif" width="30">
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnd1OTF4OWlzeG4zbHdnejdxZHp2ajRrZXdpMDFhMnljdW52Y2h4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQ5owPqDcauhVI6pvx/giphy.gif" />
+</p>
+
 ## Installation
 
 Windows:
