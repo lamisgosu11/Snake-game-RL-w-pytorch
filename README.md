@@ -6,7 +6,7 @@ After watching the computer play Snake, you might feel even more embarrassed abo
 ```
 Please keep in mind that this is just a school project, so you shouldn't expect any extraordinary results. <img src="https://media.tenor.com/AinmEhb2-FgAAAAC/skill-issue-emoji.gif" width="30">
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lamisgosu11/Snake-game-RL-w-pytorch/main/snake-gif.gif" />
+  <img src="./snake-gif.gif" />
 </p>
 
 ## Installation
